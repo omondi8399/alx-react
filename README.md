@@ -1,2 +1,2 @@
-# wam-Game-
-Whack a Mole game
+# alx-react
+0x09. React Redux Connectors and Providers
